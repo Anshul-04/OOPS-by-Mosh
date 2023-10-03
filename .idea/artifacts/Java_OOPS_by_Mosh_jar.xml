@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java OOPS by Mosh:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_OOPS_by_Mosh_jar</output-path>
+    <root id="archive" name="Java OOPS by Mosh.jar">
+      <element id="module-output" name="Java OOPS by Mosh" />
+    </root>
+  </artifact>
+</component>
